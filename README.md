@@ -1,4 +1,4 @@
-# Adoring Fan Morning Slack Bot
+# Adoring Fan Slack Bot
 
 A scheduled Slack bot that posts over-the-top, Adoring Fan–style morning messages. Written in the shrill, giddy voice of Oblivion’s Adoring Fan, it transforms your day into theatrical spectacle.
 
