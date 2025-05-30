@@ -1,6 +1,6 @@
 # Adoring Fan Morning Slack Bot
 
-A scheduled Slack bot that posts over-the-top, Adoring Fan–style morning messages at 9:00 AM UK time. Written in the shrill, giddy voice of Oblivion’s Adoring Fan, it transforms your daily wake-up into theatrical spectacle.
+A scheduled Slack bot that posts over-the-top, Adoring Fan–style morning messages. Written in the shrill, giddy voice of Oblivion’s Adoring Fan, it transforms your day into theatrical spectacle.
 
 
 ![Adoring Fan Workflow Screenshot](assets/adoring-fan-dm-example.png)
